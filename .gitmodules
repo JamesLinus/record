@@ -1,0 +1,3 @@
+[submodule "Recorderjs"]
+	path = Recorderjs
+	url = git@github.com:nickdesaulniers/Recorderjs.git
